@@ -1,0 +1,167 @@
+body {
+font-family: 'Lora', serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+}
+
+p {
+    font-size: 1.25em;
+    line-height: 1.6;
+}
+
+.row {
+margin-right: 8%;
+margin-left: 8%;
+}
+
+.box {
+    padding-top: 4%;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.col-lg-12 p {
+    letter-spacing: 0.1em;
+    text-align: justify;
+}
+
+.meet {
+width:400px;    
+float: left;
+    clear: right;
+    padding-right: 4%;
+}
+
+.sillouette {
+width:350px;    
+}
+
+.crow {
+width:700px;    
+}
+
+.dancer {
+width:350px;  
+margin-right: -3px;  
+}
+
+.tree {
+    width:700px;    
+}
+
+.courage {
+    width: 700px;
+}
+.center {
+text-align: center;
+font-size: 15px;
+}
+
+.left {
+    text-align: left;
+    margin-left: 40%;
+}
+
+.center li {
+    font-size: 17px;
+
+}
+
+.brand {
+    color: blue;
+}
+
+
+.navbar-brand {
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+
+.navbar-nav {
+    font-weight: 400;
+    letter-spacing: 3px;
+}
+
+.navbar-brand li a:hover {
+    color:purple;
+}
+
+.brand a:hover {
+color:#728FCE;
+    }
+
+footer {
+
+}
+
+footer p {
+    margin: 0;
+    padding: 50px 0;
+}
+
+@media screen and (min-width:768px) {
+    .brand a{
+        display: inherit;
+        margin: 0;
+        padding: 30px 0 10px;
+        text-align: center;
+        font-size: 5em;
+        font-weight: 700;
+        line-height: normal;
+        color: #DEB887  ;
+        text-decoration: none;
+    }
+
+
+
+    .address-bar {
+        display: inherit;
+        margin: 0;
+        text-align: center;
+        font-size: 1.25em;
+        font-weight: 400;
+        letter-spacing: 3px;
+        color: #fff;
+    }
+
+    .navbar {
+        border-radius: 0;
+    }
+
+    .navbar-header {
+        display: none;
+    }
+
+    .navbar {
+        min-height: 0;
+    }
+
+    .navbar-default {
+        border: none;
+        background: #fff;
+        background: rgba(255,255,255,0.9);
+    }
+
+    .navbar-nav>li>a {
+        line-height: normal;
+    }
+
+
+    .navbar-nav {
+        display: table;
+        float: none;
+        margin: 0 auto;
+        font-size: 1.25em;
+        border-bottom: 2px solid rgb(0,0,0);
+        padding-bottom: 5px;
+        z-index: 1;
+    }
+}
+}
+}
