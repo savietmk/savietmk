@@ -52,7 +52,10 @@ margin-right: -3px;
 }
 
 .tree {
-    width:700px;    
+width:400px;    
+float: left;
+    clear: right;
+    padding-right: 4%;   
 }
 
 .courage {
