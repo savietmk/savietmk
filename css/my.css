@@ -28,7 +28,6 @@ margin-left: 8%;
 
 .col-lg-12 p {
     letter-spacing: 0.1em;
-    text-align: justify;
 }
 
 .meet {
@@ -38,32 +37,11 @@ float: left;
     padding-right: 4%;
 }
 
-.sillouette {
-width:350px;    
-}
-
-.crow {
-width:700px;    
-}
-
-.dancer {
-width:350px;  
-margin-right: -3px;  
-}
-
 .tree {
 width:400px;    
 float: left;
     clear: right;
     padding-right: 4%;   
-}
-
-.courage {
-    width: 700px;
-}
-
-.break {
-    padding-bottom: 20%;
 }
 
 .break {
