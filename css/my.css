@@ -15,17 +15,6 @@ p {
     line-height: 1.6;
 }
 
-.row {
-margin-right: 8%;
-margin-left: 8%;
-}
-
-.box {
-    padding-top: 4%;
-    padding-left: 4%;
-    padding-right: 4%;
-}
-
 .col-lg-12 p {
     letter-spacing: 0.1em;
 }
